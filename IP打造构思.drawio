@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="第 1 页" id="YOObmO9klgEVIgGtJERq">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8Xk4WwSsDD4Bp7mtiL_C-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#666666;rounded=1;glass=0;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="8Xk4WwSsDD4Bp7mtiL_C-2" value="第一层：流量密码" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="225" y="390" width="310" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="8Xk4WwSsDD4Bp7mtiL_C-4" value="第二层：主体内容" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="435" width="195" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
